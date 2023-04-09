@@ -1,2 +1,2 @@
 # resumecv
-# deployed https://palakrukhaya.github.io/resumecv/
+deployed: https://palakrukhaya.github.io/resumecv/
